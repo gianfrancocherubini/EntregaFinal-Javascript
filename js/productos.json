@@ -1,0 +1,98 @@
+[
+    {
+        "id": "caña-1",
+        "titulo": "Caña de Pescar 1",
+        "imagen": "../multimedia/caña1.jpg",
+        "precio": 50000
+    },
+    {
+        "id": "caña-2",
+        "titulo": "Caña de Pescar 2",
+        "imagen": "../multimedia/caña2.jpg",
+        "precio": 60000
+    },
+    {
+        "id": "caña-3",
+        "titulo": "Caña de Pescar 3",
+        "imagen": "../multimedia/caña3.jpg",
+        "precio": 70000
+    },
+    {
+        "id": "caña-4",
+        "titulo": "Caña de Pescar 4",
+        "imagen": "../multimedia/caña4.jpg",
+        "precio": 80000
+    },
+    {
+        "id": "reel-1",
+        "titulo": "Reel de pesca 1",
+        "imagen": "../multimedia/reel1.jpg",
+        "precio": 15000 
+    },
+    {
+        "id": "reel-2",
+        "titulo": "Reel de pesca 2",
+        "imagen": "../multimedia/reel2.jpg",
+        "precio": 10000    
+    },
+    {
+        "id": "reel-3",
+        "titulo": "Reel de pesca 3",
+        "imagen": "../multimedia/reel1.jpg",
+        "precio": 8000    
+    },
+    {
+        "id": "reel-4",
+        "titulo": "Reel de pesca 4",
+        "imagen": "../multimedia/reel4.jpg",
+        "precio": 25000
+    },
+    {
+        "id": "tanza-1",
+        "titulo": "Tanza de pesca 1",
+        "imagen": "../multimedia/tanza1.jpg",
+        "precio": 2000
+    },
+    {
+        "id": "tanza-2",
+        "titulo": "Tanza de pesca 2",
+        "imagen": "../multimedia/tanza2.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "tanza-3",
+        "titulo": "Tanza de pesca 3",
+        "imagen": "../multimedia/tanza3.jpg",
+        "precio": 1500
+    },
+    {
+        "id": "tanza-4",
+        "titulo": "Tanza de pesca 4",
+        "imagen": "../multimedia/tanza4.jpg",
+        "precio": 3000
+    },
+    {
+        "id": "mosca-1",
+        "titulo": "Mosca de pesca 1",
+        "imagen": "../multimedia/mosca1.jpg",
+        "precio": 500
+    },
+    {
+        "id": "mosca-2",
+        "titulo": "Mosca de pesca 2",
+        "imagen": "../multimedia/mosca2.jpg",
+        "precio": 350
+    },
+    {
+        "id": "mosca-3",
+        "titulo": "Mosca de pesca 3",
+        "imagen": "../multimedia/mosca3.jpg",
+        "precio": 250
+    },
+    {
+        "id": "mosca-4",
+        "titulo": "Mosca de pesca 4",
+        "imagen": "../multimedia/mosca4.jpg",
+        "precio": 150
+    }
+]
